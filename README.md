@@ -1,7 +1,6 @@
 # **SIGHTED: Zero-Knowledge Proofs (ZKPs) for Token Verification**
 
-### **ZKP Use Case: Privacy-Preserving Healthcare Workflow
-**  
+### **ZKP Use Case: Privacy-Preserving Healthcare Workflow**  
 
 SIGHTED integrates **Zero-Knowledge Proofs (ZKPs)** to enable **privacy-preserving token verification** on the **Internet Computer (ICP)**. Users can prove token ownership or meet certain conditions (e.g., token balance > 100) without revealing their actual balance. This project uses **Circom** for ZKP circuit generation, **snarkjs** for proof verification, and **Calimero** as the backend for verifying proofs.
 
